@@ -44,7 +44,7 @@
 
 **Github Stats**
 
-[![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarij0160)](https://github.com/maarij0160/github-readme-stats)
+![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarij0160&show_icons=true&theme=radical)
 
 
 
