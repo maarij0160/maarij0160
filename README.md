@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+profile!!)](https://git.io/typing-svg)
 
+** C++ / Python | Cyber & AI | Web Development | NUCES'24 **
 
 
+💫 **About Me:**
 
 - 🔭 Exploring Deep Learning technologies for Cyber Security applications.
 - 🌱 Currently delving into Python for AI and the MERN stack for web development.
