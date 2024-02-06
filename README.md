@@ -8,5 +8,5 @@
 - 🔭 Exploring Deep Learning technologies for Cyber Security applications.
 - 🌱 Currently delving into Python for AI and the MERN stack for web development.
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning and Secure Web Development. 
-- 💬 Reach me via maarijamir1@gmail.com ...
+- 💬 Reach me via maarijamir1@gmail.com
 
