@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+profile!!)](https://git.io/typing-svg)
 
-** C++ / Python | Cyber & AI | Web Development | NUCES'24 **
+**C++ / Python | Cyber & AI | Web Development | NUCES'24**
 
 
 💫 **About Me:**
