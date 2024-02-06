@@ -42,9 +42,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-##Github Stats##
+**Github Stats**
 
-[![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/maarij0160/github-readme-stats)
+[![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarij0160)](https://github.com/maarij0160/github-readme-stats)
 
 
 
