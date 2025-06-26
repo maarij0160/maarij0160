@@ -46,9 +46,9 @@
 
 **Github Stats**
 
-- ![GitHub Streak](https://streak-stats.demolab.com?user=amamir14&theme=radical)]
-- ![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=amamir14&show_icons=true&theme=radical)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amamir14&layout=compact&show_icons=true&theme=radical)
+- ![GitHub Streak](https://streak-stats.demolab.com?user=maarij0160&theme=radical)]
+- ![Maarij's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarij0160&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maarij0160&layout=compact&show_icons=true&theme=radical)
 
 
 
